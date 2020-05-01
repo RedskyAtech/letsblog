@@ -30,6 +30,7 @@ Manual routing is used, instead of vue router
 
 # TS files used
 main.ts
+store.ts
 
 # Dependencies used
 nativescript-vue
